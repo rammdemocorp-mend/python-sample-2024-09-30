@@ -1,5 +1,4 @@
 { 
-  "settingsInheritedFrom": "rammdemocorp-mend/whitesource-config@main",
   "remediateSettings": {
     "workflowRules": {
       "enabled": true,
