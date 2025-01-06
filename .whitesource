@@ -1,0 +1,8 @@
+{
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true,
+      "minVulnerabilitySeverity": "LOW"
+    }
+  }
+}
